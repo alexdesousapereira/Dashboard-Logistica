@@ -89,3 +89,14 @@ Falta de pedido, Preço errado e Estabelecimento fechado.
 10. O indicador Order Cycle Time em 2021 melhorou ou piorou se comparado ao total dos anos anteriores?
 
 Para obter a resposta, basta você verificar que ao filtrar 2021, o valor é de 6,05 dias e ao selecionar todos os anos exceto 2021, o valor é de 6,14 dias.
+
+# Direitos de Uso
+***
+Este repositório têm como objetivo apresentar o **Dashboard de Logística** feito no Microsoft Power BI. Então, dentro deste repositório você pode utilizar deste conteúdo sem nenhuma restrição contanto que não me responsebilize por eventuais causas ou danos morais perante minha responsabilidade.	
+
+Exigido | Permitido | Proibido
+:---: | :---: | :---:
+Aviso de licença e direitos autorais | Uso comercial | Responsabilidade Assegurada
+ || Modificação ||	
+ || Distribuição ||	
+ || Sublicenciamento || 	
