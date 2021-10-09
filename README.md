@@ -2,7 +2,7 @@
 ***
 Click na imagem e acesse o Dashboard de logística.
 
-[![Logistica](https://i.imgur.com/yYHhq21.png)](https://app.powerbi.com/view?r=eyJrIjoiM2M5NzMwZDEtNWQ5Yy00Y2QxLWE4YjMtMzQwYzM2NTU0NjUwIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9&pageName=ReportSection96bce97b8cb7d090726d)
+[(https://i.imgur.com/yYHhq21.png)](https://app.powerbi.com/view?r=eyJrIjoiM2M5NzMwZDEtNWQ5Yy00Y2QxLWE4YjMtMzQwYzM2NTU0NjUwIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9&pageName=ReportSection96bce97b8cb7d090726d)
 
 ## Introdução
 ***
