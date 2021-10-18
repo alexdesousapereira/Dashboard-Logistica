@@ -11,7 +11,7 @@ A Karpalog é uma empresa de logística especializada em segurança e qualidade 
 ## Objetivos
 ***
 Um dos grandes objetivos da gestão logística do transporte de cargas é reduzir custos. Ao controlar todos os gastos envolvidos, é possível aprimorar processos e diminuir custos desnecessários.
-Você foi contratado como para ajudar a Karpalog no desenvolvimento de um Dashboard para que os gestores possam acompanhar os principais indicadores da área realacionados a operação principalmente, ter uma melhor visibilidade dos custos para que seja possível identificar pontos de melhoria e viabilizar o aumento da margem operacional.
+Você foi contratado para ajudar a Karpalog no desenvolvimento de um Dashboard para que os gestores possam acompanhar os principais indicadores da área relacionados a operação, principalmente ter uma melhor visibilidade dos custos para que seja possível identificar pontos de melhoria e viabilizar o aumento da margem operacional.
 
 ## Requisitos
 ***
@@ -19,7 +19,7 @@ Você foi contratado como para ajudar a Karpalog no desenvolvimento de um Dashbo
 
 2. Utilize no máximo três páginas, sendo a primeira composta pela Capa; 
 
-3. Escolha as cores dos gráficos a partir da paleta disponibilizada pela empresa:
+3. Escolha as cores dos gráficos a partir da paleta de cores disponibilizada pela empresa:
 090F4D, EF3964, 4024A6, 1EC4D8, 2572BF e E0962C;
 
 4. Calcule os seguintes indicadores de acordo com as descrições:
@@ -54,41 +54,42 @@ As análises foram feitas baseadas nas seguintes perguntas:
    Custo total = R$ 88,3 Mi
    Resultado = R$ 38,6 Mi
    Margem = 30,4%
+   
 2. Em 2021, qual o tipo de veículo possui maior % Margem Operacional numa visão geral? E por filial?
 
    Truck. Por filial também é o tipo Truck. 
 
 3. Em 2021, o ticket médio aumentou em relação à 2020?
- Sim.
+   
+   Sim.
 
 4. Qual a pior e melhor Filial em termos de Resultado?
 
-Biguaçu é a pior e Campinas é a melhor filial em termos de Resultado. 
+   Biguaçu é a pior e Campinas é a melhor filial em termos de Resultado. 
 
 5. Qual o % On Time em 2021? 
 
-68,9%
+   68,9%
 
 6. Qual o % In Full em 2021? 
 
-99,1%
+   99,1%
 
 7. Qual o % OTIF em 2021? Descreva com suas palavras o que um aumento nesse valor representa.
 
-68,3%. O OTIF mede a satisfação do cliente em relação a sua experiência com a empresa. Um aumento nesse valor indica que a empresa está entregando mais produtos dentro do prazo e com as especificações corretas.
+   68,3%. O OTIF mede a satisfação do cliente em relação a sua experiência com a empresa. Um aumento nesse valor indica que a empresa está entregando mais produtos dentro do prazo e com as especificações corretas.
 
 8. Qual a filial com maior quantidade de pedidos devolvidos em todo o período analisado? Pode-se considerar que essa filial é a pior dentre as demais em termos de mercadorias devolvidas?
-Campinas. 
 
-Não, porque essa Filial é a que tem mais pedidos. Para obter a pior filial deve-se analisar o percentual de pedidos devolvidos em relação ao total. Analisando as demais filiais, Contagem é a filiam com maior % Pedidos devolvidos (1,08%).
+   Campinas; Não, porque essa Filial é a que tem mais pedidos. Para obter a pior filial deve-se analisar o percentual de pedidos devolvidos em relação ao total. Analisando as demais filiais, Contagem é a filiam com maior % Pedidos devolvidos (1,08%).
 
 9. Quais os três principais motivos de devolução de mercadorias em 2021?
 
-Falta de pedido, Preço errado e Estabelecimento fechado.
+   Falta de pedido, Preço errado e Estabelecimento fechado.
 
 10. O indicador Order Cycle Time em 2021 melhorou ou piorou se comparado ao total dos anos anteriores?
 
-Para obter a resposta, basta você verificar que ao filtrar 2021, o valor é de 6,05 dias e ao selecionar todos os anos exceto 2021, o valor é de 6,14 dias.
+   Para obter a resposta, basta você verificar que ao filtrar 2021, o valor é de 6,05 dias e ao selecionar todos os anos exceto 2021, o valor é de 6,14 dias.
 
 # Direitos de Uso
 ***
